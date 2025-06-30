@@ -1,5 +1,5 @@
 # 💫About Me :
--  Hi, I’m @ujjwalsoni03
+-  Hi, I’m Ujjwal Soni
 -  I’m studying in Galgotias University
 -  I’m also club member of Cyber Cell
 -  I’m Student of Computer Science and Engineering
