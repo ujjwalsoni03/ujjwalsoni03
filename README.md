@@ -22,22 +22,6 @@ I’m currently seeking internship opportunities where I can contribute to innov
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- Currently learning Data Structures and Algorithms to enhance core problem-solving skills.  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-
 <br/>  
 
 
